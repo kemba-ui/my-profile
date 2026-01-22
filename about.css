@@ -1,0 +1,96 @@
+.me {
+    background-color: gray;
+    height: 45px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 8px;
+
+}
+
+.kemba {
+    height: 400px;
+    width: 60%;
+    background-color: gray;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.dora {
+    height: 150px;
+    width: 59%;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin: auto;
+    padding-left: 10px;
+
+}
+
+.lucky {
+    background-color: gray;
+    height: 50px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.man {
+    background-color: grey;
+    height: 45px;
+    width: 60px;
+}
+
+.ruba {
+    background-color: grey;
+    height: 45px;
+    width: 60px;
+    margin-left: 20px;
+    margin-right: 8px;
+
+}
+
+.bella {
+    background-color: grey;
+    height: 45px;
+    width: 60px;
+    margin-left: 10px;
+}
+
+.k {
+    height: 400px;
+    width: 55%;
+    background-color: rgb(204, 79, 79);
+    float: left;
+    padding-left: 10px;
+
+}
+
+.e {
+    height: 400px;
+    width: 40%;
+    background-color: blue;
+    float: right;
+
+}
+
+.m {
+    height: 250px;
+    width: 100%;
+    background-color: bisque;
+
+}
+
+.b {
+    height: 150px;
+    width: 100%;
+    background-color: aqua;
+}
+img{
+    height:250px;
+    width: 100%;
+}

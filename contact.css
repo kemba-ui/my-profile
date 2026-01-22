@@ -1,0 +1,73 @@
+.kemba{
+    height: 45px;
+    width: 60%;
+    margin: auto;
+    background-color: grey;
+    margin-bottom: 10px;
+    padding-top: 8px;
+}
+.tee{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+.th{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+}
+.he{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+    margin-right: 8px;
+}
+.dora{
+    height: 340px;
+    width: 60%;
+    background-color: blue;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.kei{
+    height: 45px;
+    width: 59%;
+    margin: auto;
+    background-color: grey;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.to{
+    height: 350px;
+    width: 60%;
+    background-color: aquamarine;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+.me{
+    height: 45px;
+    width: 60%;
+    background-color: gray;
+    margin: auto;
+    padding-top: 8px;
+    text-align: center;
+}
+.c{
+     background-color: antiquewhite;
+    height: 30px;
+    width: 65px;
+    text-align: center;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+}
+input{
+    width: 300px;
+}
+
+

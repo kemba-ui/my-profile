@@ -1,0 +1,75 @@
+.kemba{
+    height: 45px;
+    width: 60%;
+    margin: auto;
+    background-color: grey;
+    margin-bottom: 10px;
+    padding-top: 8px;
+
+}
+.dora{
+    height: 350px;
+    width: 60%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.cow{
+height: 300px;
+width: 59.5%;
+background-color: grey;
+margin: auto;
+margin-bottom: 10px;
+padding-left: 10px;
+}
+.cat{
+    height: 200px;
+    width: 59.5%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.goat{
+    height:40px;
+    width: 60%;
+    background-color: grey;
+    margin: auto;
+    text-align: center;
+
+}
+.tee{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+.th{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+}
+.he{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 65px;
+    margin-right: 8px;
+}
+.r{
+    height: 350px;
+    width: 50%;
+    background-color: aqua;
+    float: left;
+    padding-left: 10px;
+}
+.u{
+    height: 350px;
+    width: 45%;
+    background-color: aquamarine;
+    float: right;
+}
+img{
+    height: 350px;
+    width: 100%;
+}
